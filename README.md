@@ -3,7 +3,7 @@ A responsive website for ecommence business with advanced CSS styling
 
 # TECH STACK #
 
-## Languages, Frameworks & Database ##
+## Languages ##
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://camo.githubusercontent.com/819068798393631dfa06d6ba12a235382f6f009675d30a527a6be7f6ba73558b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352532302d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
